@@ -4,6 +4,7 @@ channels:
   - threeml
   - xspecmodels
 dependencies:
+  - astropy<4.3
   - numpy
   - psutil
   - toolz
