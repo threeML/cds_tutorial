@@ -28,7 +28,7 @@ You can install the 3ML notebook docker with the following instructions.
 1) To run this docker first pull it
 
 ```bash
-docker pull threeml/notebook:1.0.0
+docker pull threeml/notebook:latest
 ```
 
 2) Now clone this repo in a directory of your choosing:
